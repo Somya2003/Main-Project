@@ -17,4 +17,4 @@
 ## Chatbot
 ![image alt](https://github.com/Somya2003/Nutri-Smart-Healthy-Diet-Tracker/blob/3acd3c87b6de6774b6fc9ac23e8ed3c30b9acee4/Chatbot.jpeg)
 ## Nutrismart Community
-![image alt](https://github.com/Somya2003/Nutri-Smart-Healthy-Diet-Tracker/blob/3acd3c87b6de6774b6fc9ac23e8ed3c30b9acee4/Chatbot.jpeg)
+![image alt](https://github.com/Somya2003/Nutri-Smart-Healthy-Diet-Tracker/blob/3acd3c87b6de6774b6fc9ac23e8ed3c30b9acee4/NutriSmart%20Community.jpeg))
